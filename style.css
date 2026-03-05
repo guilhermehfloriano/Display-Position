@@ -15,10 +15,25 @@ background-color: blue;
 margin: 30px;
 }
 
-.flex {
-display: flex;
+
+.red {
+padding-right: 350px;
+background-color: red;
+}
+
+.green {
+background-color: green;
+padding-bottom: 200px;
 
 }
 
+.purple {
+    background-color: purple;
+    padding-bottom: 200px;
+}
 
+
+.flex {
+display: flex;
+}
 
