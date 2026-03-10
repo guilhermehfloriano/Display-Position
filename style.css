@@ -37,6 +37,21 @@ padding-bottom: 360px;
 padding-bottom: 390px;
 }
 
+.talvez {
+padding-bottom: 420px;
+
+}
+
+.gray {
+padding-right: 600px;
+background-color: gray;
+}
+
+.jaca {
+padding-bottom: 300px;
+
+}
+
 
 .flex {
 display: flex;
