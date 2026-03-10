@@ -23,7 +23,7 @@ background-color: red;
 
 .green {
 background-color: green;
-padding-bottom: 300px;
+padding-bottom: 360px;
 
 }
 
@@ -31,6 +31,10 @@ padding-bottom: 300px;
   
     background-color: purple;
     padding-bottom: 560px;
+}
+
+.orange {
+padding-bottom: 390px;
 }
 
 
