@@ -52,6 +52,11 @@ padding-bottom: 330px;
 
 }
 
+.pink {
+padding-right: 300px;
+background-color: pink;
+
+}
 
 .flex {
 display: flex;
